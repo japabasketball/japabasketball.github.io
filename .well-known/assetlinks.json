@@ -1,0 +1,8 @@
+   [{
+     "relation": ["delegate_permission/common.handle_all_urls"],
+     "target": {
+       "namespace": "android_app",
+       "package_name": "io.github.japabasketball.hooplog",
+       "sha256_cert_fingerprints": ["2F:56:75:9C:C0:8E:A8:84:85:6D:CD:7C:C6:12:6C:2A:AD:02:0E:D7:65:3C:AB:5E:75:6E:63:FF:0B:C1:34:43"]
+     }
+   }]
