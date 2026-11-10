@@ -1,8 +1,13 @@
-   [{
-     "relation": ["delegate_permission/common.handle_all_urls"],
-     "target": {
-       "namespace": "android_app",
-       "package_name": "io.github.japabasketball.hooplog",
-       "sha256_cert_fingerprints": ["2F:56:75:9C:C0:8E:A8:84:85:6D:CD:7C:C6:12:6C:2A:AD:02:0E:D7:65:3C:AB:5E:75:6E:63:FF:0B:C1:34:43"]
-     }
-   }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.japabasketball.hooplog",
+      "sha256_cert_fingerprints": [
+        "2F:56:75:9C:C0:8E:A8:84:85:6D:CD:7C:C6:12:6C:2A:AD:02:0E:D7:65:3C:AB:5E:75:6E:63:FF:0B:C1:34:43",
+        "5F:A1:E4:1B:78:8C:CB:59:E3:D9:37:95:0A:37:E9:04:75:2B:08:F7:C1:04:83:81:77:1F:73:DB:C0:97:59:58"
+      ]
+    }
+  }
+]
